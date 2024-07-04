@@ -8,7 +8,7 @@
           {
             target: '#v-step-0',  
             title: 'Get Started',
-            content: `Start with adding lights to the system!`,
+            content: `Start with ...!`,
             next() {
               console.log('next clicked on OK button step') 
             }
@@ -27,7 +27,7 @@
           {
             target: '#v-step-3',  
             title: 'Lorem Ipsum ',
-            content: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi quaerat illo voluptates asperiores, atque maxime quia at debitis optio temporibus autem quae eaque explicabo quam, ex soluta nisi accusantium, dolores nostrum fuga?`,
+            content: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi quaerat illo voluptates asperiores, atque maxime quia at debitis optio temporibus autem quae eaque explicabo quam, ex soluta nisi accusantium, dolores nostrum fuga? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi quaerat illo voluptates asperiores, atque maxime quia at debitis optio temporibus autem quae eaque explicabo quam, ex soluta nisi accusantium, dolores nostrum fuga?`,
             next() {
               console.log('next clicked 3') 
             }
