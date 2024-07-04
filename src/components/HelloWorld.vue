@@ -8,7 +8,7 @@
         >vue-cli documentation</a
       >.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3 id="v-step-2">Installed CLI Plugins</h3>
     <ul>
       <li>
         <a
@@ -59,7 +59,7 @@
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
       </li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3 id="v-step-3">Ecosystem</h3>
     <ul>
       <li>
         <a href="https://router.vuejs.org" target="_blank" rel="noopener"
@@ -87,6 +87,7 @@
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
           rel="noopener"
+          id="v-step-4"
           >awesome-vue</a
         >
       </li>
